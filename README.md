@@ -100,6 +100,14 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUEgyUdL6wuds_iuTAlaXXkAFrsVug-ZF2Q&usqp=CAU" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="50" height="50"/> &nbsp;
+
+
+
+The snake's eating up my contributions🐍.
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <!--
 **jashbhatia07/jashbhatia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
