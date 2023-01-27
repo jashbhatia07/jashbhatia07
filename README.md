@@ -1,13 +1,13 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Harshal Dave</h1>
+
+<h1 align="center">Hi 👋, I'm Jash Bhatia</h1>
 
 ## 🚀 Insights
-- 💬 Ask me about **Tech, Managemnt and Business Strategy**
-- 📫 How to reach me **harshalhdave@gmail.com**
+- 💬 Ask me about **Tech, Management and Business Strategy**
+- 📫 How to reach me **jashbhatiaworks@gmail.com**
 
 ## 💬 Connect with me
-<a href="https://linkedin.com/in/harshalhdave" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="harshalhdave" height="30" width="40" /></a>
-<a href="https://twitter.com/harshalhdave" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="harshalhdave" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jashbhatia07/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Jash Bhatia" height="30" width="40" /></a>
+<a href="https://twitter.com/BhatiaJash" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="JashBhatia" height="30" width="40" /></a>&nbsp;
 
 ## Languages
 ### Full Stack Development
