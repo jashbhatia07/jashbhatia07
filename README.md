@@ -90,10 +90,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="50" height="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="50" height="50"/> &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashbhatia07&show_icons=true&locale=en&layout=compact" alt="jashbhatia07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashbhatia07&show_icons=true&locale=en" alt="jashbhatia07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashbhatia07&" alt="jashbhatia07" /></p>
 
 The snake's eating up my contributions🐍.
